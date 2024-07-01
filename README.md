@@ -1,5 +1,4 @@
 - 👋 Jasso Zuniga
-- 👀 Interested in Javascript web development
 - 🌱 Never stop learning
-- 🧩 Open to collaborate
+- 🛡️ Dev at Apps Camelot
 - 📫 Can contact by email: jassozng@gmail.com / [jassozng.dev](https://jassozng.dev "Personal webpage")
