@@ -1,4 +1,4 @@
 - 👋 Jasso Zuniga
 - 🌱 Never stop learning
 - 🛡️ Dev at Apps Camelot
-- 📫 Can contact by email: jassozng@gmail.com / [jassozng.dev](https://jassozng.dev "Personal webpage")
+- 📫 Can contact by email: contact@jassozng.dev / [jassozng.dev](https://jassozng.dev "Personal webpage")
